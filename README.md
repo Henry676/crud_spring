@@ -1,5 +1,6 @@
 # crud_spring
-This is my first CRUD application made in JAVA, where I used the Spring framework to create a RESTful API. I also used Postman in order to test the backend functionality.
+This is my first CRUD application made in JAVA with the Spring framework to create a RESTful API. I also used Postman in order to test the backend functionality.
+
 Technologies and design patterns used: JAVA, Spring, Springboot, MVC and MySQL.
 
 In this screenshot, I am making a request to create a record through the postman program with the JSON format. This is where I am consuming my first API-REST.
